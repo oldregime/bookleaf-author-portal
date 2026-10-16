@@ -3,9 +3,9 @@
 > Candidate: **Divyansh Joshi** (<divyanshjoshidev@gmail.com>)  
 > Portfolio: [oldregime.github.io](https://oldregime.github.io) | GitHub: [@oldregime](https://github.com/oldregime)
 
----
-
-## 🏛️ Project Overview
+## 🌐 Live Production Demo & Repository
+- **Live Netlify Deployment:** [https://bookleaf-author-portal-divyansh.netlify.app](https://bookleaf-author-portal-divyansh.netlify.app)
+- **GitHub Repository:** [https://github.com/oldregime/bookleaf-author-portal](https://github.com/oldregime/bookleaf-author-portal)
 This repository delivers an **Author Support & Communication Portal** built for BookLeaf Publishing to streamline author inquiries across 1,200+ monthly titles. The platform features an **Author Portal**, an **Admin Operations Command Center**, and an **AI-Assisted Knowledge Base Intelligence Engine** that automatically classifies inquiries, calculates priority ratings, and drafts empathetic responses grounded in BookLeaf's operational policies.
 
 ---
